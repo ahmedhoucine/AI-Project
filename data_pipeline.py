@@ -20,7 +20,7 @@ data = pd.read_csv("data.csv")
 
 # Custom transformers
 class SemanticEmbedder(BaseEstimator, TransformerMixin):
-    def __init__(self, model_name='all-MiniLM-L6-v2'):
+    def __init__(self, model_name='all-mpnet-base-v2'):
         self.model_name = model_name
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         print(f"[INFO] Using device: {self.device}")
@@ -117,4 +117,4 @@ full_pipeline = Pipeline([
 # Transform data
 data_prepared = full_pipeline.fit_transform(data)
 
-sparse.save_npz("data_prepared_.npz", data_prepared)
+sparse.save_npz("data_prepared__.npz", data_prepared)

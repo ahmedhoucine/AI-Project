@@ -6,7 +6,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics import silhouette_score
 
 # Load the saved sparse matrix
-data_prepared = sparse.load_npz('data_prepared_.npz')
+data_prepared = sparse.load_npz('data_prepared__.npz')
 
 # Optional: convert to dense if data is small enough
 data_prepared_dense = data_prepared.toarray()
