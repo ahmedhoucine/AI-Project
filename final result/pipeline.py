@@ -97,5 +97,5 @@ print("[INFO] Transforming data...")
 X_transformed = full_pipeline.fit_transform(data)
 
 print("[INFO] Saving transformed data...")
-sparse.save_npz("data_prepared_final2.npz", sparse.csr_matrix(X_transformed))
+sparse.save_npz("data_prepared_final.npz", sparse.csr_matrix(X_transformed))
 print("[SUCCESS] Transformed data saved to 'data_prepared_final.npz'")
