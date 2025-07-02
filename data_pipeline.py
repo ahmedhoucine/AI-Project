@@ -76,7 +76,7 @@ class DateTransformer(BaseEstimator, TransformerMixin):
 
 # Define features
 potential_num_attribs = ['Number of Candidates', 'Number of Employees']
-cat_attribs = ['Job Title', 'Location', 'Work Mode', 'Plateforme', 
+cat_attribs = ['Job Title', 'Work Mode', 'Plateforme', 
                'Company Name', 'Sector', 'Contract Type', 'Education']
 
 # Pipelines
@@ -93,10 +93,7 @@ cat_pipeline = Pipeline([
     ('one_hot', OneHotEncoder(handle_unknown='ignore', sparse_output=True)),  # Keep sparse
 ])
 
-date_pipeline = Pipeline([
-    ('selector', DataFrameSelector(['Publishing Date'])),
-    ('date_transformer', DateTransformer()),
-])
+
 
 text_pipeline = Pipeline([
     ('selector', DataFrameSelector(['Description'], as_text=True)),
@@ -108,7 +105,7 @@ full_pipeline = Pipeline([
     ('features', FeatureUnion([
         ("num_pipeline", num_pipeline),
         ("cat_pipeline", cat_pipeline),
-        ("date_pipeline", date_pipeline),
+       
         ("text_pipeline", text_pipeline),
     ])),
     ('final_imputer', SimpleImputer(strategy="constant", fill_value=0))  # Handle any remaining NaNs
@@ -117,4 +114,4 @@ full_pipeline = Pipeline([
 # Transform data
 data_prepared = full_pipeline.fit_transform(data)
 
-sparse.save_npz("data_prepared__.npz", data_prepared)
+sparse.save_npz("data_prepared___.npz", data_prepared)
