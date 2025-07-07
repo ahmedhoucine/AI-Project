@@ -1,0 +1,119 @@
+
+🔍 Query: a man is swimming in the ocean
+Flat Index:
+- A man is wind sailing in the ocean.
+- The man is swimming in a body of water near a waterfall
+- A man is surfing a large wave in the ocean.
+- The man is going into the water
+- The man is going into the water.
+IVFPQ Index:
+- A fish is swimming
+- A person wearing scuba gear is swimming underwater water.
+- A man is coming out of the water
+- A man is wind sailing in the ocean.
+- The man is swimming in a body of water near a waterfall
+HNSW Index:
+- A man is wind sailing in the ocean.
+- The man is swimming in a body of water near a waterfall
+- A man is surfing a large wave in the ocean.
+- The man is going into the water
+- The man is going into the water.
+
+🔍 Query: children are playing in the park
+Flat Index:
+- Kids playing ball in the park.
+- Two children are playing soccer in the park
+- Some children are playing on a playground
+- Some kids are playing on a playground
+- The young kids are posing with a green soccer ball in a park
+IVFPQ Index:
+- Kids playing ball in the park.
+- The young boys are posing with a green soccer ball in a park
+- The young kids are posing with a green soccer ball in a park
+- Two children are playing soccer in the park
+- A woman is playing with two young boys at a park
+HNSW Index:
+- Kids playing ball in the park.
+- Two children are playing soccer in the park
+- Some children are playing on a playground
+- Some kids are playing on a playground
+- The young kids are posing with a green soccer ball in a park
+
+🔍 Query: a cat sits on the sofa
+Flat Index:
+- A black and white photo of a cat sitting on a sofa.
+- A siamese cat resting on a white sofa.
+- Yellow striped cat resting on blue sofa.
+- An orange tabby cat sleeping on the sofa.
+- A close-up of a cat on a cream sofa.
+IVFPQ Index:
+- A siamese cat resting on a white sofa.
+- Yellow striped cat resting on blue sofa.
+- An orange kitten lay on a leather couch.
+- Two dogs and one cat sitting on couch.
+- A black and white photo of a cat sitting on a sofa.
+HNSW Index:
+- A black and white photo of a cat sitting on a sofa.
+- A siamese cat resting on a white sofa.
+- Yellow striped cat resting on blue sofa.
+- An orange tabby cat sleeping on the sofa.
+- A close-up of a cat on a cream sofa.
+
+🔍 Query: an airplane is flying in the sky
+Flat Index:
+- A plane in the sky.
+- An airplane is flying through the air
+- The white airplane is flying in the sky.
+- The white airplane is flying in the blue sky.
+- A yellow and blue airplane is flying in the sky.
+IVFPQ Index:
+- A plane flying at a distance.
+- A plane in the sky.
+- A jet is flying
+- A passenger jet flies through the air.
+- A large passenger jet flying close to the ground.
+HNSW Index:
+- A plane in the sky.
+- An airplane is flying through the air
+- The white airplane is flying in the sky.
+- The white airplane is flying in the blue sky.
+- A yellow and blue airplane is flying in the sky.
+
+🔍 Query: people are eating in a restaurant
+Flat Index:
+- Many people are eating in a crowded restaurant.
+- A person is eating in a restaurant
+- A group of people in a large Asian restaurant is eating
+- A small group of people is waiting to eat in a restaurant
+- A large group of Asian people is eating at a restaurant
+IVFPQ Index:
+- Many people are eating in a crowded restaurant.
+- Various people are eating at red tables in a crowded restaurant with purple lights
+- A group of people in a large Asian restaurant is eating
+- A large group of Asian people is eating at a restaurant
+- A purple crowd of people is eating on various red lit restaurant tables
+HNSW Index:
+- Many people are eating in a crowded restaurant.
+- A person is eating in a restaurant
+- A group of people in a large Asian restaurant is eating
+- A small group of people is waiting to eat in a restaurant
+- A large group of Asian people is eating at a restaurant
+
+📈 Evaluation Summary on hardcoded queries
+Metric     |  IVFPQ |   HNSW
+------------------------------
+RECALL     |   0.48 |   1.00
+PRECISION  |   0.48 |   1.00
+F1         |   0.48 |   1.00
+MAP        |   0.34 |   1.00
+MRR        |   0.75 |   1.00
+NDCG       |   0.78 |   1.00
+
+⏱️ Average Search Time (seconds per query)
+Flat      : 0.000846
+IVFPQ     : 0.000400
+HNSW      : 0.000156
+
+⚡ Speedup Comparison:
+IVFPQ Speedup      : 2.12x
+HNSW Speedup       : 5.42x
