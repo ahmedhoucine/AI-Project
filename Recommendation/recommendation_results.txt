@@ -1,0 +1,1438 @@
+
+🔍 Query: A highly skilled Full Stack Developer with 3+ years of experience in building scalable web applications using React, Node.js, and MongoDB. Proficient in RESTful API design, DevOps basics, and CI/CD pipelines. Passionate about clean code, responsive design, and solving real-world problems with elegant web solutions.
+Flat Index:
+- senior full stack engineer  à propos de l'offre d'emploi
+your role
+lead development of software applications across client portfolio with a focus on mern or mean frameworks within an azure , aws or gcp environment.
+
+lead the continuous development of bespoke web applications.
+take personal responsibility for components technical delivery collaborating with other developers and architects to design robust, scalable technical solutions
+continually improve our app development processes, practices, tools and techniques
+share your knowledge and experience with colleagues as you advise them on the technologies and best practices of building a web application
+encourage innovation, inclusion, teamwork, self-organisation, and diversity
+
+key skills
+in depth experience of html5, css3, object-oriented javascript and javascript applications
+full stack javascript experience including nodejs and at least one modern
+javascript ui framework, such as react or angular
+understanding of progressive web app (pwa) development approaches
+demonstrable experience in test driven or behavior driven development.
+version control software (git) expertise
+a deep understanding of web standards, accessibility and development best practice
+microservice, and api based, development experience, including designing and implementing rest and graphql apis, and understanding api security patterns
+familiarity with databases (e.g. mysql, mongodb), web servers (e.g. apache)
+familiarity with agile development
+
+additional/advantageous skills
+continuous integration/devops experience.
+experience with d3 or other front end visualisation libraries.
+experience of cloud native development including serverless application development approaches using a serverless framework like azure functions.
+familiarity with ui/ux principles
+
+why bi:procsi?
+we started this company with a goal — a goal to be the very best. we don't just believe it; we know our team is our biggest asset. we're a group of passionate innovators (*nerds), obsessed with personal growth, that believes in challenging the status quo to ensure we come up with the best solutions.
+
+we have a phenomenal culture, unparalleled drive, and every single person in our team is very carefully selected to make sure we maintain this. we are diverse, and we celebrate that. we are whole people, with families, hobbies and lives outside of work and make sure we have a healthy work-life balance.
+
+we are rapidly expanding and on a growth trajectory. we are continuously hiring at all levels across business intelligence, analytics, data warehousing, data science and data engineering.
+
+bi:procsi is actively committed to encouraging equality, diversity and inclusion throughout our workforce. our aim here at bi:procsi is to represent all selections of society and for each member of the team here at bi:procsi to feel respected in a balanced working environment to be able to give their very best.
+
+company benefits
+uncapped budget for l&d
+private pension
+private healthcare
+bonus scheme
+hybrid working
+early finish fridays
+death in service insurance
+
+interview process
+initial intro call with hr manager (15-20 mins)
+culture fit interview with coo
+technical interview with cto / head of data engineering
+- senior software engineer  à propos de l'offre d'emploi
+full stack engineer - fully remote - tech for good
+
+join an exciting tech for good scale-up working in a niche, creative industry. you will be working alongside a small team of talented engineers in a specialised tech for good company. if you're a cutting-edge engineer with the passion to join a growing company aiming to make a positive impact - this may be the role for you!
+
+ideally you will have:
+a strong academic background with a ba (hons) from a top university
+4+ years in software development
+experience with nosql
+pro-experience with nodejs, vue.js typescript
+excitement to be a part of an exciting scale-up
+
+full stack engineer - fully remote - tech for good
+- full-stack software engineer nodejs, reactjs, nextjs (remote)  à propos de l'offre d'emploi
+wp umbrella is looking for a full-stack software engineer (nodejs, reactjs, nextjs) to help scale and enhance our platform, which serves thousands of small business owners worldwide.
+
+in this role, you'll work closely with our cto and product team to develop new features, improve existing ones, and contribute to technical specifications, following solid principles. you'll also tackle scalability challenges, ensuring our platform remains fast and reliable as we grow.
+
+beyond writing clean, maintainable code, you'll play a key role in optimizing performance, refining processes, and modernizing legacy components where needed. if you're passionate about building scalable software, improving developer workflows, and making a real impact, we'd love to hear from you!
+
+what is wp umbrella? 
+
+wp umbrella provides everything agencies and freelancers need to manage multiple wordpress sites effortlessly.
+
+our application helps agencies and freelancers to save a ton of time and improve the communication with their clients.
+
+we are committed to deliver a fast, reliable and user-friendly experience to our users in everything that we do.
+
+wp umbrella in numbers:
+
+🧑‍🔧 6 people
+🚀 a plugin installed on 40 000 websites
+🥰 2500 happy customers
+⌛ created in july 2021
+💵 + 135% of growth in 2024 (70k mrr in march 2025)
+
+our values & working principles
+
+kindness, honesty, and ownership: these are the fundamental values that support our life as a team. we are passionated about the things we do. we work hard to build a product we can be proud of.
+
+we encourage our employees to enjoy their life, family, and hobbies by offering flexible working hours and a generous vacation policy.
+
+‼️ we care about you and the work you do, not about the hours you sit at your desk.
+
+tech stack
+
+our entire application is built on nextjs and deployed on vercel. our stack, using nodejs, handles all the api and queue workers (bullmq). you will also work with technologies such as redis and meilisearch. our database is based on postgresql.
+
+each week we review the progress of our work and adjust our goals for the following week while keeping short, medium and long-term objectives in mind.
+
+requirements
+
+your mission
+
+improving legacy: legacy is our backbone, and improving it is how we shape the future
+implementation of new features in collaboration with the product team
+bug fixing and development of existing features while contributing to technical specifications
+solid development
+create and monitoring background processes
+contribute to the team's skill development: sharing best practices and code review
+assist punctually the marketing team in their development needs
+
+your hard & soft skills
+
+you enjoy adventure and thrive in fast-paced environments
+you are autonomous but also a team player
+you want to have a real impact on the development of a product
+you have a deep knowledge of node & typescript
+you have a deep knowledge of postgresql and redis
+you test your code and you think "clean code"
+bonus: knowledge of meilisearch
+bonus: knowledge of wordpress
+
+
+benefits
+
+the base salary for this role is $54,000, with a total compensation package estimated at $60,000. we're looking for someone who can work 7-8 hours per day.
+
+friendly team 🤗
+
+remote work 🏝
+
+flexible hours ⏰
+
+5 weeks of paid holidays ⛺️
+
+monthly budget for your remote-work expenses 📒
+
+📈 individual performance bonus & annual collective increases
+
+✈️ retreat at least once a year
+
+📚 learning and training opportunities
+IVFPQ Index:
+- senior full stack engineer  à propos de l'offre d'emploi
+your role
+lead development of software applications across client portfolio with a focus on mern or mean frameworks within an azure , aws or gcp environment.
+
+lead the continuous development of bespoke web applications.
+take personal responsibility for components technical delivery collaborating with other developers and architects to design robust, scalable technical solutions
+continually improve our app development processes, practices, tools and techniques
+share your knowledge and experience with colleagues as you advise them on the technologies and best practices of building a web application
+encourage innovation, inclusion, teamwork, self-organisation, and diversity
+
+key skills
+in depth experience of html5, css3, object-oriented javascript and javascript applications
+full stack javascript experience including nodejs and at least one modern
+javascript ui framework, such as react or angular
+understanding of progressive web app (pwa) development approaches
+demonstrable experience in test driven or behavior driven development.
+version control software (git) expertise
+a deep understanding of web standards, accessibility and development best practice
+microservice, and api based, development experience, including designing and implementing rest and graphql apis, and understanding api security patterns
+familiarity with databases (e.g. mysql, mongodb), web servers (e.g. apache)
+familiarity with agile development
+
+additional/advantageous skills
+continuous integration/devops experience.
+experience with d3 or other front end visualisation libraries.
+experience of cloud native development including serverless application development approaches using a serverless framework like azure functions.
+familiarity with ui/ux principles
+
+why bi:procsi?
+we started this company with a goal — a goal to be the very best. we don't just believe it; we know our team is our biggest asset. we're a group of passionate innovators (*nerds), obsessed with personal growth, that believes in challenging the status quo to ensure we come up with the best solutions.
+
+we have a phenomenal culture, unparalleled drive, and every single person in our team is very carefully selected to make sure we maintain this. we are diverse, and we celebrate that. we are whole people, with families, hobbies and lives outside of work and make sure we have a healthy work-life balance.
+
+we are rapidly expanding and on a growth trajectory. we are continuously hiring at all levels across business intelligence, analytics, data warehousing, data science and data engineering.
+
+bi:procsi is actively committed to encouraging equality, diversity and inclusion throughout our workforce. our aim here at bi:procsi is to represent all selections of society and for each member of the team here at bi:procsi to feel respected in a balanced working environment to be able to give their very best.
+
+company benefits
+uncapped budget for l&d
+private pension
+private healthcare
+bonus scheme
+hybrid working
+early finish fridays
+death in service insurance
+
+interview process
+initial intro call with hr manager (15-20 mins)
+culture fit interview with coo
+technical interview with cto / head of data engineering
+- full-stack software engineer nodejs, reactjs, nextjs (remote)  à propos de l'offre d'emploi
+wp umbrella is looking for a full-stack software engineer (nodejs, reactjs, nextjs) to help scale and enhance our platform, which serves thousands of small business owners worldwide.
+
+in this role, you'll work closely with our cto and product team to develop new features, improve existing ones, and contribute to technical specifications, following solid principles. you'll also tackle scalability challenges, ensuring our platform remains fast and reliable as we grow.
+
+beyond writing clean, maintainable code, you'll play a key role in optimizing performance, refining processes, and modernizing legacy components where needed. if you're passionate about building scalable software, improving developer workflows, and making a real impact, we'd love to hear from you!
+
+what is wp umbrella? 
+
+wp umbrella provides everything agencies and freelancers need to manage multiple wordpress sites effortlessly.
+
+our application helps agencies and freelancers to save a ton of time and improve the communication with their clients.
+
+we are committed to deliver a fast, reliable and user-friendly experience to our users in everything that we do.
+
+wp umbrella in numbers:
+
+🧑‍🔧 6 people
+🚀 a plugin installed on 40 000 websites
+🥰 2500 happy customers
+⌛ created in july 2021
+💵 + 135% of growth in 2024 (70k mrr in march 2025)
+
+our values & working principles
+
+kindness, honesty, and ownership: these are the fundamental values that support our life as a team. we are passionated about the things we do. we work hard to build a product we can be proud of.
+
+we encourage our employees to enjoy their life, family, and hobbies by offering flexible working hours and a generous vacation policy.
+
+‼️ we care about you and the work you do, not about the hours you sit at your desk.
+
+tech stack
+
+our entire application is built on nextjs and deployed on vercel. our stack, using nodejs, handles all the api and queue workers (bullmq). you will also work with technologies such as redis and meilisearch. our database is based on postgresql.
+
+each week we review the progress of our work and adjust our goals for the following week while keeping short, medium and long-term objectives in mind.
+
+requirements
+
+your mission
+
+improving legacy: legacy is our backbone, and improving it is how we shape the future
+implementation of new features in collaboration with the product team
+bug fixing and development of existing features while contributing to technical specifications
+solid development
+create and monitoring background processes
+contribute to the team's skill development: sharing best practices and code review
+assist punctually the marketing team in their development needs
+
+your hard & soft skills
+
+you enjoy adventure and thrive in fast-paced environments
+you are autonomous but also a team player
+you want to have a real impact on the development of a product
+you have a deep knowledge of node & typescript
+you have a deep knowledge of postgresql and redis
+you test your code and you think "clean code"
+bonus: knowledge of meilisearch
+bonus: knowledge of wordpress
+
+
+benefits
+
+the base salary for this role is $54,000, with a total compensation package estimated at $60,000. we're looking for someone who can work 7-8 hours per day.
+
+friendly team 🤗
+
+remote work 🏝
+
+flexible hours ⏰
+
+5 weeks of paid holidays ⛺️
+
+monthly budget for your remote-work expenses 📒
+
+📈 individual performance bonus & annual collective increases
+
+✈️ retreat at least once a year
+
+📚 learning and training opportunities
+- software engineer  à propos de l'offre d'emploi
+about sensay:
+at sensay, we're on a mission to shape the future of ai personal replicas. as we expand our development team, we are looking for a talented full stack developer to help build outstanding features that our customers love.
+interact with our founder replica:
+get to know our vision by interacting with our founder replica, dan, here.
+about the role:
+as a full stack developer, you will be responsible for designing, developing, and maintaining our applications using next.js, supabase, and typescript. you will collaborate closely with product owners, ux specialists, and other developers to deliver high-quality software solutions that meet the needs of our users.
+what you'll do:
+design and implement scalable and high-performance web applications using next.js and supabase.
+develop clean, maintainable, and efficient code in typescript.
+collaborate with cross-functional teams to define, design, and deliver new features and enhancements.
+participate in code reviews to maintain high standards of quality and best practices.
+troubleshoot and resolve issues, ensuring optimal performance and user experience.
+stay updated with the latest industry trends and technologies to continuously improve our development practices.
+technical requirements:
+strong experience with next.js and typescript.
+proficiency in front-end technologies such as html, css, and javascript.
+experience with api design and development, including restful services.
+familiarity with databases and data modeling, particularly with supabase is a plus.
+understanding of agile methodologies and experience working in collaborative team environments.
+work environment:
+100% remote work (eu timezone ±4 hours)
+true flexibility - work when you're most productive
+virtual office on gather for team collaboration
+mexico city office: option to work from our office in mexico city for those who prefer an in-office environment.
+minimal meetings, maximum productivity
+what we offer:
+equity opportunities to share in our success
+flexible working hours for work-life balance
+clear career progression paths
+a diverse, inclusive environment that values autonomy
+competitive salary and benefits package
+paid sick days and holiday allowance
+annual learning stipend for professional development
+regular team retreats and social events
+and much more!
+join us:
+if you're ready to support a dynamic team and contribute to efficient operations, we'd love to hear from you! visit https://sensay.io/careers to learn more about our mission and apply today.
+HNSW Index:
+- senior full stack engineer  à propos de l'offre d'emploi
+your role
+lead development of software applications across client portfolio with a focus on mern or mean frameworks within an azure , aws or gcp environment.
+
+lead the continuous development of bespoke web applications.
+take personal responsibility for components technical delivery collaborating with other developers and architects to design robust, scalable technical solutions
+continually improve our app development processes, practices, tools and techniques
+share your knowledge and experience with colleagues as you advise them on the technologies and best practices of building a web application
+encourage innovation, inclusion, teamwork, self-organisation, and diversity
+
+key skills
+in depth experience of html5, css3, object-oriented javascript and javascript applications
+full stack javascript experience including nodejs and at least one modern
+javascript ui framework, such as react or angular
+understanding of progressive web app (pwa) development approaches
+demonstrable experience in test driven or behavior driven development.
+version control software (git) expertise
+a deep understanding of web standards, accessibility and development best practice
+microservice, and api based, development experience, including designing and implementing rest and graphql apis, and understanding api security patterns
+familiarity with databases (e.g. mysql, mongodb), web servers (e.g. apache)
+familiarity with agile development
+
+additional/advantageous skills
+continuous integration/devops experience.
+experience with d3 or other front end visualisation libraries.
+experience of cloud native development including serverless application development approaches using a serverless framework like azure functions.
+familiarity with ui/ux principles
+
+why bi:procsi?
+we started this company with a goal — a goal to be the very best. we don't just believe it; we know our team is our biggest asset. we're a group of passionate innovators (*nerds), obsessed with personal growth, that believes in challenging the status quo to ensure we come up with the best solutions.
+
+we have a phenomenal culture, unparalleled drive, and every single person in our team is very carefully selected to make sure we maintain this. we are diverse, and we celebrate that. we are whole people, with families, hobbies and lives outside of work and make sure we have a healthy work-life balance.
+
+we are rapidly expanding and on a growth trajectory. we are continuously hiring at all levels across business intelligence, analytics, data warehousing, data science and data engineering.
+
+bi:procsi is actively committed to encouraging equality, diversity and inclusion throughout our workforce. our aim here at bi:procsi is to represent all selections of society and for each member of the team here at bi:procsi to feel respected in a balanced working environment to be able to give their very best.
+
+company benefits
+uncapped budget for l&d
+private pension
+private healthcare
+bonus scheme
+hybrid working
+early finish fridays
+death in service insurance
+
+interview process
+initial intro call with hr manager (15-20 mins)
+culture fit interview with coo
+technical interview with cto / head of data engineering
+- senior software engineer  à propos de l'offre d'emploi
+full stack engineer - fully remote - tech for good
+
+join an exciting tech for good scale-up working in a niche, creative industry. you will be working alongside a small team of talented engineers in a specialised tech for good company. if you're a cutting-edge engineer with the passion to join a growing company aiming to make a positive impact - this may be the role for you!
+
+ideally you will have:
+a strong academic background with a ba (hons) from a top university
+4+ years in software development
+experience with nosql
+pro-experience with nodejs, vue.js typescript
+excitement to be a part of an exciting scale-up
+
+full stack engineer - fully remote - tech for good
+- full-stack software engineer nodejs, reactjs, nextjs (remote)  à propos de l'offre d'emploi
+wp umbrella is looking for a full-stack software engineer (nodejs, reactjs, nextjs) to help scale and enhance our platform, which serves thousands of small business owners worldwide.
+
+in this role, you'll work closely with our cto and product team to develop new features, improve existing ones, and contribute to technical specifications, following solid principles. you'll also tackle scalability challenges, ensuring our platform remains fast and reliable as we grow.
+
+beyond writing clean, maintainable code, you'll play a key role in optimizing performance, refining processes, and modernizing legacy components where needed. if you're passionate about building scalable software, improving developer workflows, and making a real impact, we'd love to hear from you!
+
+what is wp umbrella? 
+
+wp umbrella provides everything agencies and freelancers need to manage multiple wordpress sites effortlessly.
+
+our application helps agencies and freelancers to save a ton of time and improve the communication with their clients.
+
+we are committed to deliver a fast, reliable and user-friendly experience to our users in everything that we do.
+
+wp umbrella in numbers:
+
+🧑‍🔧 6 people
+🚀 a plugin installed on 40 000 websites
+🥰 2500 happy customers
+⌛ created in july 2021
+💵 + 135% of growth in 2024 (70k mrr in march 2025)
+
+our values & working principles
+
+kindness, honesty, and ownership: these are the fundamental values that support our life as a team. we are passionated about the things we do. we work hard to build a product we can be proud of.
+
+we encourage our employees to enjoy their life, family, and hobbies by offering flexible working hours and a generous vacation policy.
+
+‼️ we care about you and the work you do, not about the hours you sit at your desk.
+
+tech stack
+
+our entire application is built on nextjs and deployed on vercel. our stack, using nodejs, handles all the api and queue workers (bullmq). you will also work with technologies such as redis and meilisearch. our database is based on postgresql.
+
+each week we review the progress of our work and adjust our goals for the following week while keeping short, medium and long-term objectives in mind.
+
+requirements
+
+your mission
+
+improving legacy: legacy is our backbone, and improving it is how we shape the future
+implementation of new features in collaboration with the product team
+bug fixing and development of existing features while contributing to technical specifications
+solid development
+create and monitoring background processes
+contribute to the team's skill development: sharing best practices and code review
+assist punctually the marketing team in their development needs
+
+your hard & soft skills
+
+you enjoy adventure and thrive in fast-paced environments
+you are autonomous but also a team player
+you want to have a real impact on the development of a product
+you have a deep knowledge of node & typescript
+you have a deep knowledge of postgresql and redis
+you test your code and you think "clean code"
+bonus: knowledge of meilisearch
+bonus: knowledge of wordpress
+
+
+benefits
+
+the base salary for this role is $54,000, with a total compensation package estimated at $60,000. we're looking for someone who can work 7-8 hours per day.
+
+friendly team 🤗
+
+remote work 🏝
+
+flexible hours ⏰
+
+5 weeks of paid holidays ⛺️
+
+monthly budget for your remote-work expenses 📒
+
+📈 individual performance bonus & annual collective increases
+
+✈️ retreat at least once a year
+
+📚 learning and training opportunities
+
+🔍 Query: Experienced Data Scientist with a strong background in Python, machine learning, and statistical analysis. Adept at building predictive models, performing data wrangling, and deriving actionable insights from large datasets. Skilled in using tools like Scikit-learn, TensorFlow, Pandas, and Jupyter notebooks.
+Flat Index:
+- data engineer spark databricks sophia antipolis  ingénieur data spark databricks sophia antipolis stack technologique :
+spark - doit
+databricks - doit
+microsoft azure
+échelle
+impala
+python ou autre langage centré sur les données
+compétences:
+au moins 3 ans d'activités avérées d'ingénierie de données.
+maîtrise du développement de logiciels utilisant un framework agile.
+excellentes compétences en communication
+solides capacités d’analyse et de résolution de problèmes.
+data engineer spark databricks sophia antipolis technological stack :
+spark - must
+databricks - must
+microsoft azure
+scala
+impala
+python or other data centric language
+
+skills:
+at least 3 years of proven data engineering activities.
+proficient developing software using an agile framework.
+excellent communication skills
+strong analytical and problem-solving abilities.
+- data scientistpython  nous recherchons pour notre client basé à montrouge un data scientist phyton
+niveau d'expérience: 3- 5 ans d’expérience
+contexte de l'équipe : equipe qui intervient sur la partie trading algorithmique principalement la partie fixed income (ça comprend l’activité bonds, repo, crédit, swap de taux)
+composition de l'équipe : algo trader / dév kdb / dév java / data scientiste et des dév python
+profil statistique data science qui a fait bcp de python
+mode de travail : hybride 2j télé travail 3j sur site
+- tech lead databricks  experience +10 xp
+loc : paris
+
+compétences techniques :
+
+- maîtrise de databricks (impératif), apache spark, et des environnements cloud (aws, azure, ou gcp).
+- solides connaissances en python, scala, et sql.
+- expérience dans la gestion de données structurées et non structurées.
+- compréhension des architectures data lake, delta lake et des solutions distribuées.
+- familiarité avec les outils ci/cd et la gestion des versions (git, jenkins, etc.).
+- connaissance des frameworks de machine learning est un plus.
+IVFPQ Index:
+- python software engineer - ubuntu hardware certification team  à propos de l'offre d'emploi
+canonical is hiring a python software engineer to join the certification team, who make the tools which enable us to know that a desktop, laptop, server or iot device is working properly. we work at the interface of hardware and software, so the ideal candidate is a python developer familiar with hardware.
+
+the certification team develops the tools needed to certify hardware as working with ubuntu core as well as ubuntu desktop and server: https://ubuntu.com/certified
+
+we design hardware which can be used to probe devices independently, and frameworks for software tests that check every aspect of ubuntu on that hardware.
+
+this is an excellent opportunity for someone who wants to have a meaningful impact for adoption of linux across multiple device categories and industries. canonical offers a fun, fast-paced team environment and a career full of learning and development opportunities. this team is centered in emea time zones, and works with colleagues on related teams in both the americas and apac.
+
+we work together with silicon companies, oems, odms and teams within canonical to ensure a smooth, secure out of the box ubuntu experience, with success in this role leading to a great ubuntu experience being offered on more and more devices.
+
+role description
+
+we are looking for a self-motivated software engineer with experience developing in python, to work on test automation tools or linux based embedded hardware. this role offers an exciting opportunity to push the industry forward by enabling entirely new linux based hardware testing capabilities, scaling up hardware certification efforts and allowing for deeper test coverage.
+
+the role involves the development and maintenance of canonical's open source certification tools, supporting the creation of hardware solutions for test automation, and automating our existing processes. we seek out continuous process and tooling improvements as part of expanding the certification test suites, ultimately to improve the quality of linux experience felt by millions of linux end users.
+
+key responsibilities
+maintain and develop new features to our python based test automation tools like checkbox, used by both in-house teams and industry partners.
+invent new ways to enable remote, automated testing.
+help build the software counterpart to in-house designed testing hardware to help test device enablement (graphics, hotplug, bluetooth, etc).
+write functional and performance tests to support hardware enablement and to protect from regressions.
+participate in meetings involving international travel 2-3 times per year.
+
+required skills and experience
+knowledge of python programming language.
+quality oriented, pragmatic approach to software design and implementation.
+interest in test automation methodologies.
+previous experience working with ubuntu or other linux distributions.
+ability to be productive in a globally distributed team.
+
+desired skills and experience
+passion for tinkering: you are a maker.
+experience working in an agile environment.
+hardware testing experience, for example in the iot space.
+familiarity with the c programming language.
+
+what is canonical?
+
+canonical is a growing international software company that works with the open-source community to deliver ubuntu, "the world's best free software platform". our services help businesses worldwide to reduce costs, improve efficiency and enhance security with ubuntu.
+
+we are proud to foster a workplace free from discrimination. diversity of experience, perspectives, and background create a better work environment and better products. whatever your identity, we will give your application fair consideration.
+
+#stack
+- senior data analyst - aws cloud  à propos de l’offre d’emploi
+position summary:
+we are looking for a senior data analyst to spearhead the development of our data analytics operations. as the first data analyst at our company, you will work closely with engineering, product, and leadership teams to build a data-driven culture. you will be responsible for leveraging our newly established aws data lake to provide actionable insights, establish data governance, and help shape the future of analytics in our organization.
+
+key responsibilities:
+lead the development of data analytics initiatives, focusing on creating meaningful insights for business units.
+utilize the aws data lake to gather, process, and analyze large datasets, ensuring data is accessible, accurate, and actionable.
+collaborate with cross-functional teams to understand business needs and develop metrics, reports, and dashboards that drive decision-making.
+define and implement data governance practices, ensuring data integrity and security.
+develop automated reporting systems and scalable analytics processes.
+serve as the subject matter expert for data analytics within the organization.
+mentor and train other employees on best practices in data analytics, visualization, and reporting.
+
+qualifications:
+bachelor’s degree in a related field (data science, statistics, computer science, etc.) or equivalent work experience.
+5+ years of experience as a data analyst or in a similar analytical role, preferably in a fast-growing tech environment.
+proven expertise in building and managing data lakes, with hands-on experience in aws (s3, athena, redshift, glue).
+strong proficiency in sql, data visualization tools (tableau, power bi), and experience with python or r.
+demonstrated experience in establishing data governance frameworks and ensuring data quality.
+excellent communication skills with the ability to explain complex data to non-technical stakeholders.
+
+preferred skills:
+experience in designing etl pipelines and working with big data technologies.
+familiarity with machine learning techniques and predictive analytics.
+- senior data analyst - aws cloud  à propos de l’offre d’emploi
+position summary:
+we are looking for a senior data analyst to spearhead the development of our data analytics operations. as the first data analyst at our company, you will work closely with engineering, product, and leadership teams to build a data-driven culture. you will be responsible for leveraging our newly established aws data lake to provide actionable insights, establish data governance, and help shape the future of analytics in our organization.
+
+key responsibilities:
+lead the development of data analytics initiatives, focusing on creating meaningful insights for business units.
+utilize the aws data lake to gather, process, and analyze large datasets, ensuring data is accessible, accurate, and actionable.
+collaborate with cross-functional teams to understand business needs and develop metrics, reports, and dashboards that drive decision-making.
+define and implement data governance practices, ensuring data integrity and security.
+develop automated reporting systems and scalable analytics processes.
+serve as the subject matter expert for data analytics within the organization.
+mentor and train other employees on best practices in data analytics, visualization, and reporting.
+
+qualifications:
+bachelor’s degree in a related field (data science, statistics, computer science, etc.) or equivalent work experience.
+5+ years of experience as a data analyst or in a similar analytical role, preferably in a fast-growing tech environment.
+proven expertise in building and managing data lakes, with hands-on experience in aws (s3, athena, redshift, glue).
+strong proficiency in sql, data visualization tools (tableau, power bi), and experience with python or r.
+demonstrated experience in establishing data governance frameworks and ensuring data quality.
+excellent communication skills with the ability to explain complex data to non-technical stakeholders.
+
+preferred skills:
+experience in designing etl pipelines and working with big data technologies.
+familiarity with machine learning techniques and predictive analytics.
+HNSW Index:
+- data engineer spark databricks sophia antipolis  ingénieur data spark databricks sophia antipolis stack technologique :
+spark - doit
+databricks - doit
+microsoft azure
+échelle
+impala
+python ou autre langage centré sur les données
+compétences:
+au moins 3 ans d'activités avérées d'ingénierie de données.
+maîtrise du développement de logiciels utilisant un framework agile.
+excellentes compétences en communication
+solides capacités d’analyse et de résolution de problèmes.
+data engineer spark databricks sophia antipolis technological stack :
+spark - must
+databricks - must
+microsoft azure
+scala
+impala
+python or other data centric language
+
+skills:
+at least 3 years of proven data engineering activities.
+proficient developing software using an agile framework.
+excellent communication skills
+strong analytical and problem-solving abilities.
+- data scientistpython  nous recherchons pour notre client basé à montrouge un data scientist phyton
+niveau d'expérience: 3- 5 ans d’expérience
+contexte de l'équipe : equipe qui intervient sur la partie trading algorithmique principalement la partie fixed income (ça comprend l’activité bonds, repo, crédit, swap de taux)
+composition de l'équipe : algo trader / dév kdb / dév java / data scientiste et des dév python
+profil statistique data science qui a fait bcp de python
+mode de travail : hybride 2j télé travail 3j sur site
+- tech lead databricks  experience +10 xp
+loc : paris
+
+compétences techniques :
+
+- maîtrise de databricks (impératif), apache spark, et des environnements cloud (aws, azure, ou gcp).
+- solides connaissances en python, scala, et sql.
+- expérience dans la gestion de données structurées et non structurées.
+- compréhension des architectures data lake, delta lake et des solutions distribuées.
+- familiarité avec les outils ci/cd et la gestion des versions (git, jenkins, etc.).
+- connaissance des frameworks de machine learning est un plus.
+
+🔍 Query: Dedicated Cybersecurity Analyst with expertise in network security, vulnerability assessments, and incident response. Familiar with SIEM tools, ethical hacking, and security best practices. Holds certifications like CompTIA Security+ and working toward CISSP. Strong commitment to protecting digital assets and ensuring compliance.
+Flat Index:
+- it security engineer  à propos de l’offre d’emploi
+at dataiku, we're not just adapting to the ai revolution, we're leading it. since our beginning in paris in 2013, we've been pioneering the future of ai with a platform that makes data actionable and accessible. with over 1,000 teammates across 25 countries and backed by a renowned set of investors, we're the architects of everyday ai, enabling data experts and domain experts to work together to build ai into their daily operations, from advanced analytics to generative ai.
+
+we are seeking an experienced security engineer to join the dataiku security team. this team is responsible for designing, implementing, and maintaining security measures to protect dataiku's systems.
+
+as a security engineer, you will be part of the design, implementation and running of a broad range of security controls, including but not limited to identity management, endpoint security, data leakage prevention, and security of the various cloud components used in dataiku. you will also be working with and contributing to improve the siem built in-house with dataiku science studio.
+
+key responsibilities
+
+design new security solutions to improve security posture and reduce identified risks
+implement security solutions and manage these solutions over time
+manage and maintain security infrastructure and tools
+investigate and respond to security incidents
+stay up-to-date on the latest security threats and trends
+
+qualifications
+
+bachelor's degree in computer science, information security, or a related field
+5+ years of experience in information security
+experience in designing and implementing security solutions in cloud and saas based environments
+experience working with iso 27001 / soc / hipaa compliance and audit programs
+experience in investigating and responding to security incidents
+ability to excel in a remote, multicultural, distributed environment 
+
+what are you waiting for!
+
+at dataiku, you'll be part of a journey to shape the ever-evolving world of ai. we're not just building a product; we're crafting the future of ai. if you're ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can't wait to welcome you to dataiku! and if you’d like to learn even more about working here, you can visit our dataiku linkedin page.
+
+our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. therefore, we are proud to be an equal opportunity employer. all employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. this applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. if you need assistance or an accommodation, please contact us at: reasonable-accommodations@dataiku.com
+
+protect yourself from fraudulent recruitment activity
+
+dataiku will never ask you for payment of any type during the interview or hiring process. other than our video-conference application, zoom, we will also never ask you to make purchases or download third-party applications during the process. if you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity here.
+- it security engineer  à propos de l’offre d’emploi
+at dataiku, we're not just adapting to the ai revolution, we're leading it. since our beginning in paris in 2013, we've been pioneering the future of ai with a platform that makes data actionable and accessible. with over 1,000 teammates across 25 countries and backed by a renowned set of investors, we're the architects of everyday ai, enabling data experts and domain experts to work together to build ai into their daily operations, from advanced analytics to generative ai.
+
+we are seeking an experienced security engineer to join the dataiku security team. this team is responsible for designing, implementing, and maintaining security measures to protect dataiku's systems.
+
+as a security engineer, you will be part of the design, implementation and running of a broad range of security controls, including but not limited to identity management, endpoint security, data leakage prevention, and security of the various cloud components used in dataiku. you will also be working with and contributing to improve the siem built in-house with dataiku science studio.
+
+key responsibilities
+
+design new security solutions to improve security posture and reduce identified risks
+implement security solutions and manage these solutions over time
+manage and maintain security infrastructure and tools
+investigate and respond to security incidents
+stay up-to-date on the latest security threats and trends
+
+qualifications
+
+bachelor's degree in computer science, information security, or a related field
+5+ years of experience in information security
+experience in designing and implementing security solutions in cloud and saas based environments
+experience working with iso 27001 / soc / hipaa compliance and audit programs
+experience in investigating and responding to security incidents
+ability to excel in a remote, multicultural, distributed environment 
+
+what are you waiting for!
+
+at dataiku, you'll be part of a journey to shape the ever-evolving world of ai. we're not just building a product; we're crafting the future of ai. if you're ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can't wait to welcome you to dataiku! and if you’d like to learn even more about working here, you can visit our dataiku linkedin page.
+
+our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. therefore, we are proud to be an equal opportunity employer. all employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. this applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. if you need assistance or an accommodation, please contact us at: reasonable-accommodations@dataiku.com
+
+protect yourself from fraudulent recruitment activity
+
+dataiku will never ask you for payment of any type during the interview or hiring process. other than our video-conference application, zoom, we will also never ask you to make purchases or download third-party applications during the process. if you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity here.
+- consultant cyber scurit grc  compétences attendues :
+maîtrise de la gestion des risques it et cyber
+pilotage (pmo) transverse au domaine sécurité
+production des reportings, préparation des comités risques hebdomadaires
+suivi des risques et plans de réduction, mco qualité des données risques
+très bonne adaptation au contexte et environnement
+très grande rigueur dans les activités (reporting, multi-activités en parallèle)
+autonomie, intelligence de situation
+connaissance des référentiels standards risk it et cyber : nist, lpm, dora, pci dss
+livrables attendus :
+définir les politiques et stratégies de sécurité
+animer et apporter un support à la filière ssi et/ou protection des données personnelles
+former, communiquer et sensibiliser à la ssi ou à la protection des données personnelles
+identifier et évaluer les risques de sécurité sous un angle métier
+élaborer le référentiel de contrôles permanents, réaliser les contrôles permanents de niveau 2
+contribuer ou piloter des revues de sécurité et tests d'intrusion
+suivi des plans de remédiation permettant de réduire les risques
+durée :
+date de début souhaitée : 01/04/2025
+date de fin prévisionnelle : 31/08/2025
+IVFPQ Index:
+- software engineer  à propos de l’offre d’emploi
+meet the team 
+
+cisco cyber vision is a cybersecurity solution from the industrial iot business at cisco, specially designed for organizations in the power and water, oil and gas, manufacturing and public transport sectors, to ensure the continuity, resilience and security of their industrial operations. it gives asset owners full visibility of their networks, so they can ensure process integrity, build secure infrastructures, ensure regulatory compliance and enforce security policies through seamless integration and easy deployment within the industrial network.
+
+by joining our team, you will be asked to perform exciting tasks, whether it be developing new features, optimizing our code, or adapting the architecture to position the product into new markets and environments.
+
+ your impact 
+
+ participate in the development of cyber vision components using the go language. (if you’ve never worked in go, deep knowledge of c, c++, and/or python will get you started quickly). 
+ work closely with senior developers and other team members to contribute to project goals. 
+ demonstrate a willingness to learn new technologies, seek feedback, and improve skills through mentorship. 
+ communicate effectively with the team, document work clearly, and contribute to a positive and inclusive team environment. 
+
+ minimum qualifications: 
+
+ backend oriented programming language 
+ sql language 
+ basic knowledge of networking 
+
+ preferred qualifications: 
+
+ golang experience 
+ gnu/linux operating system 
+ postgressql 
+ an experience in frontend development and particularly react is a plus 
+ eager to learn – there’s always something new to build in cybersecurity. curiosity is a must. 
+ problem solving skills – in a complex stack, bugs can be hidden very deep down… if you enjoy treasure hunts, you’ll be happy at cisco. 
+ english proficiency – we’re a us company with teams across the entire world and work with them daily. 
+
+ #wearecisco 
+
+#wearecisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.
+
+our passion is connection—we celebrate our employees’ diverse set of backgrounds and focus on unlocking potential. cisconians often experience one company, many careers where learning and development are encouraged and supported at every stage. our technology, tools, and culture pioneered hybrid work trends, allowing all to not only give their best, but be their best.
+
+we understand our outstanding opportunity to bring communities together and at the heart of that is our people. one-third of cisconians collaborate in our 30 employee resource organizations, called inclusive communities, to connect, foster belonging, learn to be informed allies, and make a difference. dedicated paid time off to volunteer—80 hours each year—allows us to give back to causes we are passionate about, and nearly 86% do!
+
+our purpose, driven by our people, is what makes us the worldwide leader in technology that powers the internet. helping our customers reimagine their applications, secure their enterprise, transform their infrastructure, and meet their sustainability goals is what we do best. we ensure that every step we take is a step towards a more inclusive future for all. take your next step and be you, with us!
+- it security engineer  à propos de l’offre d’emploi
+at dataiku, we're not just adapting to the ai revolution, we're leading it. since our beginning in paris in 2013, we've been pioneering the future of ai with a platform that makes data actionable and accessible. with over 1,000 teammates across 25 countries and backed by a renowned set of investors, we're the architects of everyday ai, enabling data experts and domain experts to work together to build ai into their daily operations, from advanced analytics to generative ai.
+
+we are seeking an experienced security engineer to join the dataiku security team. this team is responsible for designing, implementing, and maintaining security measures to protect dataiku's systems.
+
+as a security engineer, you will be part of the design, implementation and running of a broad range of security controls, including but not limited to identity management, endpoint security, data leakage prevention, and security of the various cloud components used in dataiku. you will also be working with and contributing to improve the siem built in-house with dataiku science studio.
+
+key responsibilities
+
+design new security solutions to improve security posture and reduce identified risks
+implement security solutions and manage these solutions over time
+manage and maintain security infrastructure and tools
+investigate and respond to security incidents
+stay up-to-date on the latest security threats and trends
+
+qualifications
+
+bachelor's degree in computer science, information security, or a related field
+5+ years of experience in information security
+experience in designing and implementing security solutions in cloud and saas based environments
+experience working with iso 27001 / soc / hipaa compliance and audit programs
+experience in investigating and responding to security incidents
+ability to excel in a remote, multicultural, distributed environment 
+
+what are you waiting for!
+
+at dataiku, you'll be part of a journey to shape the ever-evolving world of ai. we're not just building a product; we're crafting the future of ai. if you're ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can't wait to welcome you to dataiku! and if you’d like to learn even more about working here, you can visit our dataiku linkedin page.
+
+our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. therefore, we are proud to be an equal opportunity employer. all employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. this applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. if you need assistance or an accommodation, please contact us at: reasonable-accommodations@dataiku.com
+
+protect yourself from fraudulent recruitment activity
+
+dataiku will never ask you for payment of any type during the interview or hiring process. other than our video-conference application, zoom, we will also never ask you to make purchases or download third-party applications during the process. if you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity here.
+- it security engineer  à propos de l’offre d’emploi
+at dataiku, we're not just adapting to the ai revolution, we're leading it. since our beginning in paris in 2013, we've been pioneering the future of ai with a platform that makes data actionable and accessible. with over 1,000 teammates across 25 countries and backed by a renowned set of investors, we're the architects of everyday ai, enabling data experts and domain experts to work together to build ai into their daily operations, from advanced analytics to generative ai.
+
+we are seeking an experienced security engineer to join the dataiku security team. this team is responsible for designing, implementing, and maintaining security measures to protect dataiku's systems.
+
+as a security engineer, you will be part of the design, implementation and running of a broad range of security controls, including but not limited to identity management, endpoint security, data leakage prevention, and security of the various cloud components used in dataiku. you will also be working with and contributing to improve the siem built in-house with dataiku science studio.
+
+key responsibilities
+
+design new security solutions to improve security posture and reduce identified risks
+implement security solutions and manage these solutions over time
+manage and maintain security infrastructure and tools
+investigate and respond to security incidents
+stay up-to-date on the latest security threats and trends
+
+qualifications
+
+bachelor's degree in computer science, information security, or a related field
+5+ years of experience in information security
+experience in designing and implementing security solutions in cloud and saas based environments
+experience working with iso 27001 / soc / hipaa compliance and audit programs
+experience in investigating and responding to security incidents
+ability to excel in a remote, multicultural, distributed environment 
+
+what are you waiting for!
+
+at dataiku, you'll be part of a journey to shape the ever-evolving world of ai. we're not just building a product; we're crafting the future of ai. if you're ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can't wait to welcome you to dataiku! and if you’d like to learn even more about working here, you can visit our dataiku linkedin page.
+
+our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. therefore, we are proud to be an equal opportunity employer. all employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. this applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. if you need assistance or an accommodation, please contact us at: reasonable-accommodations@dataiku.com
+
+protect yourself from fraudulent recruitment activity
+
+dataiku will never ask you for payment of any type during the interview or hiring process. other than our video-conference application, zoom, we will also never ask you to make purchases or download third-party applications during the process. if you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity here.
+HNSW Index:
+- it security engineer  à propos de l’offre d’emploi
+at dataiku, we're not just adapting to the ai revolution, we're leading it. since our beginning in paris in 2013, we've been pioneering the future of ai with a platform that makes data actionable and accessible. with over 1,000 teammates across 25 countries and backed by a renowned set of investors, we're the architects of everyday ai, enabling data experts and domain experts to work together to build ai into their daily operations, from advanced analytics to generative ai.
+
+we are seeking an experienced security engineer to join the dataiku security team. this team is responsible for designing, implementing, and maintaining security measures to protect dataiku's systems.
+
+as a security engineer, you will be part of the design, implementation and running of a broad range of security controls, including but not limited to identity management, endpoint security, data leakage prevention, and security of the various cloud components used in dataiku. you will also be working with and contributing to improve the siem built in-house with dataiku science studio.
+
+key responsibilities
+
+design new security solutions to improve security posture and reduce identified risks
+implement security solutions and manage these solutions over time
+manage and maintain security infrastructure and tools
+investigate and respond to security incidents
+stay up-to-date on the latest security threats and trends
+
+qualifications
+
+bachelor's degree in computer science, information security, or a related field
+5+ years of experience in information security
+experience in designing and implementing security solutions in cloud and saas based environments
+experience working with iso 27001 / soc / hipaa compliance and audit programs
+experience in investigating and responding to security incidents
+ability to excel in a remote, multicultural, distributed environment 
+
+what are you waiting for!
+
+at dataiku, you'll be part of a journey to shape the ever-evolving world of ai. we're not just building a product; we're crafting the future of ai. if you're ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can't wait to welcome you to dataiku! and if you’d like to learn even more about working here, you can visit our dataiku linkedin page.
+
+our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. therefore, we are proud to be an equal opportunity employer. all employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. this applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. if you need assistance or an accommodation, please contact us at: reasonable-accommodations@dataiku.com
+
+protect yourself from fraudulent recruitment activity
+
+dataiku will never ask you for payment of any type during the interview or hiring process. other than our video-conference application, zoom, we will also never ask you to make purchases or download third-party applications during the process. if you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity here.
+- it security engineer  à propos de l’offre d’emploi
+at dataiku, we're not just adapting to the ai revolution, we're leading it. since our beginning in paris in 2013, we've been pioneering the future of ai with a platform that makes data actionable and accessible. with over 1,000 teammates across 25 countries and backed by a renowned set of investors, we're the architects of everyday ai, enabling data experts and domain experts to work together to build ai into their daily operations, from advanced analytics to generative ai.
+
+we are seeking an experienced security engineer to join the dataiku security team. this team is responsible for designing, implementing, and maintaining security measures to protect dataiku's systems.
+
+as a security engineer, you will be part of the design, implementation and running of a broad range of security controls, including but not limited to identity management, endpoint security, data leakage prevention, and security of the various cloud components used in dataiku. you will also be working with and contributing to improve the siem built in-house with dataiku science studio.
+
+key responsibilities
+
+design new security solutions to improve security posture and reduce identified risks
+implement security solutions and manage these solutions over time
+manage and maintain security infrastructure and tools
+investigate and respond to security incidents
+stay up-to-date on the latest security threats and trends
+
+qualifications
+
+bachelor's degree in computer science, information security, or a related field
+5+ years of experience in information security
+experience in designing and implementing security solutions in cloud and saas based environments
+experience working with iso 27001 / soc / hipaa compliance and audit programs
+experience in investigating and responding to security incidents
+ability to excel in a remote, multicultural, distributed environment 
+
+what are you waiting for!
+
+at dataiku, you'll be part of a journey to shape the ever-evolving world of ai. we're not just building a product; we're crafting the future of ai. if you're ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can't wait to welcome you to dataiku! and if you’d like to learn even more about working here, you can visit our dataiku linkedin page.
+
+our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. therefore, we are proud to be an equal opportunity employer. all employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. this applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. if you need assistance or an accommodation, please contact us at: reasonable-accommodations@dataiku.com
+
+protect yourself from fraudulent recruitment activity
+
+dataiku will never ask you for payment of any type during the interview or hiring process. other than our video-conference application, zoom, we will also never ask you to make purchases or download third-party applications during the process. if you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity here.
+- consultant cyber scurit grc  compétences attendues :
+maîtrise de la gestion des risques it et cyber
+pilotage (pmo) transverse au domaine sécurité
+production des reportings, préparation des comités risques hebdomadaires
+suivi des risques et plans de réduction, mco qualité des données risques
+très bonne adaptation au contexte et environnement
+très grande rigueur dans les activités (reporting, multi-activités en parallèle)
+autonomie, intelligence de situation
+connaissance des référentiels standards risk it et cyber : nist, lpm, dora, pci dss
+livrables attendus :
+définir les politiques et stratégies de sécurité
+animer et apporter un support à la filière ssi et/ou protection des données personnelles
+former, communiquer et sensibiliser à la ssi ou à la protection des données personnelles
+identifier et évaluer les risques de sécurité sous un angle métier
+élaborer le référentiel de contrôles permanents, réaliser les contrôles permanents de niveau 2
+contribuer ou piloter des revues de sécurité et tests d'intrusion
+suivi des plans de remédiation permettant de réduire les risques
+durée :
+date de début souhaitée : 01/04/2025
+date de fin prévisionnelle : 31/08/2025
+
+🔍 Query: DevOps Engineer with a passion for automation and infrastructure-as-code. Experienced in AWS, Docker, Kubernetes, and CI/CD using Jenkins and GitLab. Skilled in monitoring systems using Prometheus and Grafana, and ensuring system reliability and scalability through best DevOps practices.
+Flat Index:
+- devops engineer  à propos de l’offre d’emploi
+job title: devops engineer 
+location: paris
+salary: €150,000 
+
+about:
+join a global quantitative and systematic investment firm, specializing in all liquid asset classes across the world. the approach combines cutting-edge technology, data-driven research, and trading expertise to solve complex challenges in financial markets. driven by innovation, we continuously strive to deliver high-quality returns for our investors through a scientific, collaborative mindset.
+
+
+what you’ll do:
+infrastructure & ci maintenance: play an integral role in ensuring the continuous operation and development of our infrastructure and ci pipelines.
+application deployment: collaborate with the development team to deploy and integrate new applications quickly and effectively.
+troubleshooting & support: offer expert troubleshooting support to resolve any issues swiftly, keeping everything efficient and reliable.
+
+key skills & qualifications:
+strong computer science background with a focus on detail.
+proficiency in at least one scripting language (e.g., bash, python).
+familiarity with ci/cd, cloud infrastructure (preferably aws), and kubernetes.
+solid understanding of python code, system architecture, and devops toolchains.
+experience with linux, docker, gitlab-ci, jenkins, and monitoring/logging tools is a plus.
+exceptional collaboration and communication skills.
+- devops engineering internship  à propos de l'offre d'emploi
+devops engineering internship – talent skull
+are you excited to gain real-world experience in devops engineering and work alongside professionals from around the world? talent skull, a leading hr consultancy specializing in talent acquisition and development, offers an exciting devops engineering internship opportunity!
+if you are passionate about automating processes, optimizing infrastructure, and improving deployment pipelines, this internship will provide you with hands-on experience in building and maintaining scalable systems.
+
+about the role
+as a devops intern, you will collaborate with experienced devops engineers on projects involving automation, continuous integration/continuous deployment (ci/cd), cloud infrastructure, and system monitoring. this role will help you gain exposure to the latest tools and practices in devops, while building a strong foundation in the field.
+
+key responsibilities
+assist in automating deployment pipelines using tools like jenkins, gitlab ci, or circleci.
+help monitor and optimize cloud-based infrastructure (aws, azure, gcp).
+assist with configuration management using tools like ansible, chef, or puppet.
+collaborate with development and operations teams to ensure smooth integration and deployment.
+develop and maintain infrastructure-as-code using tools like terraform or cloudformation.
+implement and monitor system performance, reliability, and security best practices.
+assist in troubleshooting and resolving infrastructure and deployment issues.
+research the latest devops practices and suggest improvements.
+
+required skills & qualifications
+currently pursuing or recently completed a degree in computer science, information technology, engineering, or a related field.
+familiarity with version control systems like git and github.
+basic understanding of cloud platforms such as aws, google cloud, or microsoft azure.
+knowledge of containerization technologies like docker and orchestration tools like kubernetes.
+experience with scripting languages like python, bash, or ruby.
+familiarity with continuous integration/continuous deployment (ci/cd) concepts.
+strong problem-solving skills and ability to troubleshoot complex issues.
+ability to work independently and as part of a collaborative team.
+excellent communication skills to work with cross-functional teams.
+
+perks & benefits
+real-world exposure to global devops projects and industry-standard tools.
+mentorship and hands-on guidance from experienced devops engineers.
+certificate of completion at the end of the internship based on your overall performance.
+hands-on experience with modern devops tools and cloud platforms.
+opportunity to network with professionals in the devops field.
+high-performing interns may receive a full-time job offer.
+
+internship details
+duration: 3-6 months
+location: remote
+start date: immediate openings available
+- devops  à propos de l’offre d’emploi
+alten is the european leader in consultancy and engineering in high technology. for more than 30 years, we provide support to international companies on technical and information system issues.
+alten places the career development of the engineers at the heart of its model and allows you to quickly take on responsibilities and evolve in line with your professional objective.
+ 
+ 
+job description
+mission objectives and tasks
+the goal of a devops engineer will be to accelerate application teams’ ability to reliably and consistently deliver applications by developing standardized automation to control, build, and deploy managed services. 
+the main responsibility is to participate in the successful delivery of the end to end services with agreed slas to our customers by leveraging, improving, designing and implementing services that automate application provisioning. 
+you will:
+participate to the building of tools and processes to support the infrastructure. 
+leverage scripting to build required automation and tools on an ad-hoc basis. 
+actively interface with software developers, system engineers, project management and database administrators on projects.
+other responsibilities include ongoing issues such as capacity planning, change management, problem management, incident management, release management and performance improvement. you’ll troubleshoot and resolve issues quickly and effectively. 
+qualifications
+soft skills
+a strong level of english
+passion about cutting edge technology and staying current with industry trends
+great problem-solving skills with the ability to see and solve issues before they snowball into problems
+hard skills
+master's degree (bac+5)
+knowledge and relevant working experience with docker and kubernetes (nice to have: openshift)
+knowledge and relevant working experience with linux based systems
+scripting experience with bash and python (nice to have: go)
+knowledge and relevant working experience with ci/cd tools (github, jenkins..)
+knowledge of monitoring tools (grafana, prometheus)
+knowledge and relevant working experience with infrastructure as code technologies (terraform,..)
+databases management and technologies (sql, nosql)
+knowledge and understanding of major cloud providers (azure, aws, gcp)
+additional information
+the job position available is on site (south-east of france) with an hybrid modality of 35 hours/week (7 hours/day).
+IVFPQ Index:
+- devops engineer  à propos de l’offre d’emploi
+job title: devops engineer 
+location: paris
+salary: €150,000 
+
+about:
+join a global quantitative and systematic investment firm, specializing in all liquid asset classes across the world. the approach combines cutting-edge technology, data-driven research, and trading expertise to solve complex challenges in financial markets. driven by innovation, we continuously strive to deliver high-quality returns for our investors through a scientific, collaborative mindset.
+
+
+what you’ll do:
+infrastructure & ci maintenance: play an integral role in ensuring the continuous operation and development of our infrastructure and ci pipelines.
+application deployment: collaborate with the development team to deploy and integrate new applications quickly and effectively.
+troubleshooting & support: offer expert troubleshooting support to resolve any issues swiftly, keeping everything efficient and reliable.
+
+key skills & qualifications:
+strong computer science background with a focus on detail.
+proficiency in at least one scripting language (e.g., bash, python).
+familiarity with ci/cd, cloud infrastructure (preferably aws), and kubernetes.
+solid understanding of python code, system architecture, and devops toolchains.
+experience with linux, docker, gitlab-ci, jenkins, and monitoring/logging tools is a plus.
+exceptional collaboration and communication skills.
+- devops  à propos de l’offre d’emploi
+alten is the european leader in consultancy and engineering in high technology. for more than 30 years, we provide support to international companies on technical and information system issues.
+
+alten places the career development of the engineers at the heart of its model and allows you to quickly take on responsibilities and evolve in line with your professional objective.
+
+ 
+
+ 
+
+
+
+job description
+
+mission objectives and tasks
+
+the goal of a devops engineer will be to accelerate application teams’ ability to reliably and consistently deliver applications by developing standardized automation to control, build, and deploy managed services. 
+
+the main responsibility is to participate in the successful delivery of the end to end services with agreed slas to our customers by leveraging, improving, designing and implementing services that automate application provisioning. 
+
+you will:
+
+participate to the building of tools and processes to support the infrastructure. 
+leverage scripting to build required automation and tools on an ad-hoc basis. 
+actively interface with software developers, system engineers, project management and database administrators on projects.
+other responsibilities include ongoing issues such as capacity planning, change management, problem management, incident management, release management and performance improvement. you’ll troubleshoot and resolve issues quickly and effectively. 
+
+
+
+qualifications
+
+soft skills
+
+a strong level of english
+passion about cutting edge technology and staying current with industry trends
+great problem-solving skills with the ability to see and solve issues before they snowball into problems
+hard skills
+
+knowledge and relevant working experience with docker and kubernetes (nice to have: openshift)
+knowledge and relevant working experience with linux based systems
+scripting experience with bash and python (nice to have: go)
+knowledge and relevant working experience with ci/cd tools (github, jenkins..)
+knowledge of monitoring tools (grafana, prometheus)
+knowledge and relevant working experience with infrastructure as code technologies (terraform,..)
+databases management and technologies (sql, nosql)
+knowledge and understanding of major cloud providers (azure, aws, gcp)
+- devops  à propos de l’offre d’emploi
+alten is the european leader in consultancy and engineering in high technology. for more than 30 years, we provide support to international companies on technical and information system issues.
+alten places the career development of the engineers at the heart of its model and allows you to quickly take on responsibilities and evolve in line with your professional objective.
+ 
+ 
+job description
+mission objectives and tasks
+the goal of a devops engineer will be to accelerate application teams’ ability to reliably and consistently deliver applications by developing standardized automation to control, build, and deploy managed services. 
+the main responsibility is to participate in the successful delivery of the end to end services with agreed slas to our customers by leveraging, improving, designing and implementing services that automate application provisioning. 
+you will:
+participate to the building of tools and processes to support the infrastructure. 
+leverage scripting to build required automation and tools on an ad-hoc basis. 
+actively interface with software developers, system engineers, project management and database administrators on projects.
+other responsibilities include ongoing issues such as capacity planning, change management, problem management, incident management, release management and performance improvement. you’ll troubleshoot and resolve issues quickly and effectively. 
+qualifications
+soft skills
+a strong level of english
+passion about cutting edge technology and staying current with industry trends
+great problem-solving skills with the ability to see and solve issues before they snowball into problems
+hard skills
+master's degree (bac+5)
+knowledge and relevant working experience with docker and kubernetes (nice to have: openshift)
+knowledge and relevant working experience with linux based systems
+scripting experience with bash and python (nice to have: go)
+knowledge and relevant working experience with ci/cd tools (github, jenkins..)
+knowledge of monitoring tools (grafana, prometheus)
+knowledge and relevant working experience with infrastructure as code technologies (terraform,..)
+databases management and technologies (sql, nosql)
+knowledge and understanding of major cloud providers (azure, aws, gcp)
+additional information
+the job position available is on site (south-east of france) with an hybrid modality of 35 hours/week (7 hours/day).
+HNSW Index:
+- devops engineer  à propos de l’offre d’emploi
+job title: devops engineer 
+location: paris
+salary: €150,000 
+
+about:
+join a global quantitative and systematic investment firm, specializing in all liquid asset classes across the world. the approach combines cutting-edge technology, data-driven research, and trading expertise to solve complex challenges in financial markets. driven by innovation, we continuously strive to deliver high-quality returns for our investors through a scientific, collaborative mindset.
+
+
+what you’ll do:
+infrastructure & ci maintenance: play an integral role in ensuring the continuous operation and development of our infrastructure and ci pipelines.
+application deployment: collaborate with the development team to deploy and integrate new applications quickly and effectively.
+troubleshooting & support: offer expert troubleshooting support to resolve any issues swiftly, keeping everything efficient and reliable.
+
+key skills & qualifications:
+strong computer science background with a focus on detail.
+proficiency in at least one scripting language (e.g., bash, python).
+familiarity with ci/cd, cloud infrastructure (preferably aws), and kubernetes.
+solid understanding of python code, system architecture, and devops toolchains.
+experience with linux, docker, gitlab-ci, jenkins, and monitoring/logging tools is a plus.
+exceptional collaboration and communication skills.
+- devops engineering internship  à propos de l'offre d'emploi
+devops engineering internship – talent skull
+are you excited to gain real-world experience in devops engineering and work alongside professionals from around the world? talent skull, a leading hr consultancy specializing in talent acquisition and development, offers an exciting devops engineering internship opportunity!
+if you are passionate about automating processes, optimizing infrastructure, and improving deployment pipelines, this internship will provide you with hands-on experience in building and maintaining scalable systems.
+
+about the role
+as a devops intern, you will collaborate with experienced devops engineers on projects involving automation, continuous integration/continuous deployment (ci/cd), cloud infrastructure, and system monitoring. this role will help you gain exposure to the latest tools and practices in devops, while building a strong foundation in the field.
+
+key responsibilities
+assist in automating deployment pipelines using tools like jenkins, gitlab ci, or circleci.
+help monitor and optimize cloud-based infrastructure (aws, azure, gcp).
+assist with configuration management using tools like ansible, chef, or puppet.
+collaborate with development and operations teams to ensure smooth integration and deployment.
+develop and maintain infrastructure-as-code using tools like terraform or cloudformation.
+implement and monitor system performance, reliability, and security best practices.
+assist in troubleshooting and resolving infrastructure and deployment issues.
+research the latest devops practices and suggest improvements.
+
+required skills & qualifications
+currently pursuing or recently completed a degree in computer science, information technology, engineering, or a related field.
+familiarity with version control systems like git and github.
+basic understanding of cloud platforms such as aws, google cloud, or microsoft azure.
+knowledge of containerization technologies like docker and orchestration tools like kubernetes.
+experience with scripting languages like python, bash, or ruby.
+familiarity with continuous integration/continuous deployment (ci/cd) concepts.
+strong problem-solving skills and ability to troubleshoot complex issues.
+ability to work independently and as part of a collaborative team.
+excellent communication skills to work with cross-functional teams.
+
+perks & benefits
+real-world exposure to global devops projects and industry-standard tools.
+mentorship and hands-on guidance from experienced devops engineers.
+certificate of completion at the end of the internship based on your overall performance.
+hands-on experience with modern devops tools and cloud platforms.
+opportunity to network with professionals in the devops field.
+high-performing interns may receive a full-time job offer.
+
+internship details
+duration: 3-6 months
+location: remote
+start date: immediate openings available
+- devops  à propos de l’offre d’emploi
+alten is the european leader in consultancy and engineering in high technology. for more than 30 years, we provide support to international companies on technical and information system issues.
+
+alten places the career development of the engineers at the heart of its model and allows you to quickly take on responsibilities and evolve in line with your professional objective.
+
+ 
+
+ 
+
+
+
+job description
+
+mission objectives and tasks
+
+the goal of a devops engineer will be to accelerate application teams’ ability to reliably and consistently deliver applications by developing standardized automation to control, build, and deploy managed services. 
+
+the main responsibility is to participate in the successful delivery of the end to end services with agreed slas to our customers by leveraging, improving, designing and implementing services that automate application provisioning. 
+
+you will:
+
+participate to the building of tools and processes to support the infrastructure. 
+leverage scripting to build required automation and tools on an ad-hoc basis. 
+actively interface with software developers, system engineers, project management and database administrators on projects.
+other responsibilities include ongoing issues such as capacity planning, change management, problem management, incident management, release management and performance improvement. you’ll troubleshoot and resolve issues quickly and effectively. 
+
+
+
+qualifications
+
+soft skills
+
+a strong level of english
+passion about cutting edge technology and staying current with industry trends
+great problem-solving skills with the ability to see and solve issues before they snowball into problems
+hard skills
+
+knowledge and relevant working experience with docker and kubernetes (nice to have: openshift)
+knowledge and relevant working experience with linux based systems
+scripting experience with bash and python (nice to have: go)
+knowledge and relevant working experience with ci/cd tools (github, jenkins..)
+knowledge of monitoring tools (grafana, prometheus)
+knowledge and relevant working experience with infrastructure as code technologies (terraform,..)
+databases management and technologies (sql, nosql)
+knowledge and understanding of major cloud providers (azure, aws, gcp)
+
+🔍 Query: Creative and detail-oriented Mobile App Developer proficient in Flutter and React Native. Delivered multiple cross-platform apps with intuitive UI and robust backend integration. Familiar with Firebase, REST APIs, and modern state management solutions like Bloc and Redux.
+Flat Index:
+- flutter engineer  à propos de l'offre d'emploi
+morgan king is working with a pioneering shared payments platform, vc-backed and set to make a big impact in 2025. they're on the hunt for an experienced flutter engineer to help shape their product.
+responsibilities:
+design, develop, and maintain cross-platform apps using flutter.
+lead architectural decisions and uphold code quality through best practices, code reviews, and testing.
+optimize performance for smooth, high-quality user experiences.
+build reusable components and libraries to streamline development.
+troubleshoot and resolve complex issues to keep the app stable and performant.
+who you are:
+5+ years in mobile development, with 3+ years of flutter experience.
+strong proficiency in dart and a solid grasp of flutter's architecture.
+proven track record building and deploying cross-platform apps for ios and android.
+hands-on experience with ci/cd pipelines for flutter.
+problem solver with attention to detail and solid debugging skills.
+familiar with app store deployment processes for both google play and the app store.
+bonus points:
+experience with firebase.
+background in fintech is a plus.
+remote across europe.
+- développeur sénior flutter  flutter ios  nous recherchons un développeur sénior totalement autonome techniquement pour développer des applications en flutter
+vous étes sénior avec une forte compétence en flutter et une bonne capacité é communiquer avec des utilisateurs pour comprendre les besoins et les mettre en place
+- offre de stage dveloppeur full stack mobile  dans le cadre du développement de nos applications mobiles, nous recherchons un stagiaire développeur full stack mobile pour renforcer notre équipe technique. vous participerez à la conception, au développement et à l’optimisation d’applications mobiles performantes et évolutives.
+missions :
+concevoir et développer des applications mobiles en flutter ou react native
+intégrer des api et services backend en node.js, spring, django ou fastapi
+assurer la maintenance et l’optimisation des performances des applications
+collaborer avec l’équipe ux/ui pour améliorer l’expérience utilisateur
+rédiger une documentation technique et participer aux revues de code
+compétences requises
+connaissances en flutter, react native, swift ou kotlin
+expérience avec les api rest, postgres, git, docker et bases de données relationnelles ou nosql
+bonne compréhension des principes d’architecture mobile
+capacité à travailler en équipe et à résoudre des problèmes techniques
+IVFPQ Index:
+- senior mobile developer (rn, ios, android)  à propos de l'offre d'emploi
+since 2015 sweatcoin and now sweat economy is working on making the world more physically active. with more than 100 million registered users, thousands of partners and a proven ability to make people move more (+20%) sweat economy has already become the largest onramp in web3 history. we now working on turning our token - $sweat - into the principal unit of physical activity value and building an economy of movement around it.
+as a senior mobile developer, you will contribute the team for making the sweat wallet app into the best multichain mobile wallet on the market with tens of millions of users.
+
+you will work on:
+the tasks are complex and exciting - cosmic ui, optimization of battery consumption, gps / motion, anti-fraud and security, analytics and growth & a/b testing.
+most of the ui is implemented with react native.
+the overall stack is android/ios sdk + kotlin + swift + react native.
+work day-to-day in a multinational cross-functional team of engineers, designers, and product managers to build the best fitness & health app
+collaborate with other service teams on evolving our shared processes and tooling to support a large number of teams working on a diverse array of products
+explore new ways of solving cross-platform design problems at scale
+ apply, if you have:
+portfolio of consumer-facing high-performance mobile applications available in stores
+advanced react native skills
+android sdk / kotlin / apple ios sdk / swift would be an advantage
+good understanding of sensors, google-play, apple services
+be able to write maintainable and readable code, good knowledge of design patterns
+self-motivated and able to achieve deadlines and work independently
+english - upper-intermediate or above
+you care deeply about usability, accessibility and performance
+you are eager to learn new technologies (we will support you with training & mentoring)
+we value and pay attention to self-education and self-improvement in all areas, even not related to the profession, that is of interest to you.
+
+what you get in return:
+remote-friendly & flexible working hours. the flexibility is incredible, performance is based on output, rather than hours spent working, you can be wherever you want!
+apple devices for work
+team buildings abroad in exciting locations, when borders are open, we will announce the next adventure!
+health insurance coverage
+wellbeing program, which supports up to 2 counselling sessions per month
+unlimited time-off policy
+
+if you feel that's a match we would be excited to have you on our team!
+- software engineer - mobile app (ios)  à propos de l'offre d'emploi
+as a software engineer in the mobile app team, you will join a team of engineers to continue shaping the future of datadog's native ios application.
+
+at datadog, we place value in our office culture - the relationships that it builds, the creativity it brings to the table, and the collaboration of being together. we operate as a hybrid workplace to ensure our employees can create a work-life harmony that best fits them.
+
+what you'll do:
+
+participate in the development of the closest experience a user might have with datadog
+have a significant impact on a new product and the user experience of fellow engineers who use the product
+develop systems that will be used by tens of thousands of engineers around the world
+work closely with the product teams to deliver the best-in-class mobile application
+use swiftui, widgetkit and the latest technology tools at your disposal to build a world-class data visualization system
+
+who you are:
+
+you are fluent in swift and have at least an application live on the appstore
+you value code simplicity and performance
+you have a 5+ years of relevant software development experience
+you want to work in a fast, high-growth environment that respects its engineers and customers;
+nice to have: prior experience using swiftui
+
+datadog values people from all walks of life. we understand not everyone will meet all the above qualifications on day one. that's okay. if you're passionate about technology and want to grow your skills, we encourage you to apply.
+
+benefits and growth:
+
+product training to develop an in-depth understanding of our product and space
+continuous career development and pathing opportunities for internal mobility 
+intradepartmental mentor and buddy program for in-house networking 
+an inclusive company culture, ability to join our community guilds (datadog employee resource groups)
+new hire stock equity (rsus) and employee stock purchase plan
+free global mental health benefit through spring health 
+generous global benefits
+
+benefits and growth listed above may vary based on the country of your employment and the nature of your employment with datadog.
+
+about datadog: 
+
+datadog (nasdaq: ddog) is a global saas business, delivering a rare combination of growth and profitability. we are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers' entire technology stacks. built by engineers, for engineers, datadog is used by organizations of all sizes across a wide range of industries. together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. learn more about #datadoglife on instagram, linkedin, and datadog learning center. 
+
+equal opportunity at datadog:
+
+datadog is an affirmative action and equal opportunity employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. we also consider qualified applicants regardless of criminal histories, consistent with legal requirements. here are our candidate legal notices for your reference.
+
+your privacy:
+
+any information you submit to datadog as part of your application will be processed in accordance with datadog's applicant and candidate privacy notice.
+- software engineer - mobile app (ios)  à propos de l'offre d'emploi
+as a software engineer in the mobile app team, you will join a team of engineers to continue shaping the future of datadog's native ios application.
+
+at datadog, we place value in our office culture - the relationships that it builds, the creativity it brings to the table, and the collaboration of being together. we operate as a hybrid workplace to ensure our employees can create a work-life harmony that best fits them.
+
+what you'll do:
+
+participate in the development of the closest experience a user might have with datadog
+have a significant impact on a new product and the user experience of fellow engineers who use the product
+develop systems that will be used by tens of thousands of engineers around the world
+work closely with the product teams to deliver the best-in-class mobile application
+use swiftui, widgetkit and the latest technology tools at your disposal to build a world-class data visualization system
+
+who you are:
+
+you are fluent in swift and have at least an application live on the appstore
+you value code simplicity and performance
+you have a 5+ years of relevant software development experience
+you want to work in a fast, high-growth environment that respects its engineers and customers;
+nice to have: prior experience using swiftui
+
+datadog values people from all walks of life. we understand not everyone will meet all the above qualifications on day one. that's okay. if you're passionate about technology and want to grow your skills, we encourage you to apply.
+
+benefits and growth:
+
+product training to develop an in-depth understanding of our product and space
+continuous career development and pathing opportunities for internal mobility 
+intradepartmental mentor and buddy program for in-house networking 
+an inclusive company culture, ability to join our community guilds (datadog employee resource groups)
+new hire stock equity (rsus) and employee stock purchase plan
+free global mental health benefit through spring health 
+generous global benefits
+
+benefits and growth listed above may vary based on the country of your employment and the nature of your employment with datadog.
+
+about datadog: 
+
+datadog (nasdaq: ddog) is a global saas business, delivering a rare combination of growth and profitability. we are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers' entire technology stacks. built by engineers, for engineers, datadog is used by organizations of all sizes across a wide range of industries. together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. learn more about #datadoglife on instagram, linkedin, and datadog learning center. 
+
+equal opportunity at datadog:
+
+datadog is an affirmative action and equal opportunity employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. we also consider qualified applicants regardless of criminal histories, consistent with legal requirements. here are our candidate legal notices for your reference.
+
+your privacy:
+
+any information you submit to datadog as part of your application will be processed in accordance with datadog's applicant and candidate privacy notice.
+HNSW Index:
+- flutter engineer  à propos de l'offre d'emploi
+morgan king is working with a pioneering shared payments platform, vc-backed and set to make a big impact in 2025. they're on the hunt for an experienced flutter engineer to help shape their product.
+responsibilities:
+design, develop, and maintain cross-platform apps using flutter.
+lead architectural decisions and uphold code quality through best practices, code reviews, and testing.
+optimize performance for smooth, high-quality user experiences.
+build reusable components and libraries to streamline development.
+troubleshoot and resolve complex issues to keep the app stable and performant.
+who you are:
+5+ years in mobile development, with 3+ years of flutter experience.
+strong proficiency in dart and a solid grasp of flutter's architecture.
+proven track record building and deploying cross-platform apps for ios and android.
+hands-on experience with ci/cd pipelines for flutter.
+problem solver with attention to detail and solid debugging skills.
+familiar with app store deployment processes for both google play and the app store.
+bonus points:
+experience with firebase.
+background in fintech is a plus.
+remote across europe.
+- développeur sénior flutter  flutter ios  nous recherchons un développeur sénior totalement autonome techniquement pour développer des applications en flutter
+vous étes sénior avec une forte compétence en flutter et une bonne capacité é communiquer avec des utilisateurs pour comprendre les besoins et les mettre en place
+- offre de stage dveloppeur full stack mobile  dans le cadre du développement de nos applications mobiles, nous recherchons un stagiaire développeur full stack mobile pour renforcer notre équipe technique. vous participerez à la conception, au développement et à l’optimisation d’applications mobiles performantes et évolutives.
+missions :
+concevoir et développer des applications mobiles en flutter ou react native
+intégrer des api et services backend en node.js, spring, django ou fastapi
+assurer la maintenance et l’optimisation des performances des applications
+collaborer avec l’équipe ux/ui pour améliorer l’expérience utilisateur
+rédiger une documentation technique et participer aux revues de code
+compétences requises
+connaissances en flutter, react native, swift ou kotlin
+expérience avec les api rest, postgres, git, docker et bases de données relationnelles ou nosql
+bonne compréhension des principes d’architecture mobile
+capacité à travailler en équipe et à résoudre des problèmes techniques
+
+📈 Evaluation Summary on hardcoded queries
+Metric     |  IVFPQ |   HNSW
+------------------------------
+RECALL     |   0.40 |   0.93
+PRECISION  |   0.40 |   0.93
+F1         |   0.40 |   0.93
+MAP        |   0.32 |   0.93
+MRR        |   0.50 |   1.00
+NDCG       |   0.52 |   1.00
+
+⏱️ Average Search Time (seconds per query)
+Flat      : 0.001025
+IVFPQ     : 0.000406
+HNSW      : 0.000149
+
+⚡ Speedup Comparison:
+IVFPQ Speedup      : 2.52x
+HNSW Speedup       : 6.86x
