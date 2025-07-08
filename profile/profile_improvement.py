@@ -1,3 +1,4 @@
+#ollama run mistral(start ollama )
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import OllamaLLM
 
@@ -11,23 +12,28 @@ Profile Description:
 Target Job Title:
 {target_job_title}
 
-Provide specific, actionable recommendations on how this person can enhance their skills, experience, or education to increase their chances of getting hired as a {target_job_title}.
+Provide specific, actionable recommendations on how this person can enhance 
+their skills, experience, or education to increase their chances of getting hired as a {target_job_title}.
 """
 
+# Create the prompt template
 prompt = ChatPromptTemplate.from_template(template)
 
-# Use the modern, recommended LLM
+# Initialize the model
 llm = OllamaLLM(model="mistral")
 
-# Chain: prompt → LLM
+# Combine prompt and model into a chain
 chain = prompt | llm
 
-# Invoke with chat-friendly input
+# Get user input
+profile_description = input("Enter your profile description: ")
+target_job_title = input("Enter your target job title: ")
+
+# Invoke the chain with user input
 response = chain.invoke({
-    "profile_description": "Recent computer science graduate with internship experience in frontend development using React.",
-    "target_job_title": "UI/UX Designer"
+    "profile_description": profile_description,
+    "target_job_title": target_job_title
 })
 
-
-
+# Print the response
 print(response)
