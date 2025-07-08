@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Career Advisor</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      padding: 2rem;
+      color: #333;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    textarea, input[type="text"] {
+      width: 100%;
+      padding: 0.75rem;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 1rem;
+      resize: vertical;
+    }
+
+    button {
+      padding: 0.75rem 1.5rem;
+      background-color: #0056b3;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #003d80;
+    }
+
+    h2 {
+      margin-bottom: 1rem;
+      color: #1d3557;
+    }
+
+    h3 {
+      margin-top: 2rem;
+      color: #1d3557;
+    }
+
+    .result-box {
+      background: #f1f5f9;
+      padding: 1.5rem;
+      margin-top: 1rem;
+      border-radius: 10px;
+      white-space: pre-wrap;
+      max-height: 400px;
+      overflow-y: auto;
+      line-height: 1.6;
+    }
+
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>AI Career Advisor</h2>
+    <form method="post">
+      <label for="profile_description">Profile Description</label>
+      <textarea name="profile_description" rows="5" placeholder="e.g. Computer science graduate with React experience" required></textarea>
+
+      <label for="target_job_title">Target Job Title</label>
+      <input type="text" name="target_job_title" placeholder="e.g. UI/UX Designer" required>
+
+      <button type="submit">Get Advice</button>
+    </form>
+
+    {% if result %}
+      <h3>Career Advice</h3>
+      <div class="result-box">{{ result|safe }}</div>
+    {% endif %}
+  </div>
+</body>
+</html>
